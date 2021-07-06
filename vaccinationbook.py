@@ -1,7 +1,7 @@
 from datetime import datetime
 import requests
 import time
-import gc
+
 
 def create_session_info(center, session):
     return {"name": center["name"],
