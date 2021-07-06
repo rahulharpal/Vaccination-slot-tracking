@@ -54,7 +54,7 @@ while x>0:
     time.sleep(30)
     x=x+1
 
-    collected = gc.collect()
+    
 
 
 
